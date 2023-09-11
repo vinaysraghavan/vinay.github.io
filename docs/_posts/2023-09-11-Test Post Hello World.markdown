@@ -17,3 +17,5 @@ How does the stuff I write here show up online?
 I *think* that **bold** and *italics* should work find too.
 
 What about $\latex$? Or `code blocks?`
+
+If I change this, will it force a site update? Because it doesn't when I just change the config yaml
