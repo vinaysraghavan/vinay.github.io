@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+# This is what happens when I define stuff in markdown on the Index page
