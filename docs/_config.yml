@@ -29,9 +29,11 @@ twitter_username: vinaysraghavan
 github_username:  vinaysraghavan
 
 # Build settings
-theme: minimal
+# theme: minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
