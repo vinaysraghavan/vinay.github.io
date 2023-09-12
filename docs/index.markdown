@@ -5,4 +5,4 @@
 layout: default
 ---
 
-# This is what happens when I define stuff in markdown on the Index page
+# Thanks for stopping by!

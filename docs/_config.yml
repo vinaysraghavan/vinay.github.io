@@ -28,7 +28,7 @@ url: "https://vinaysraghavan.github.io" # the base hostname & protocol for your 
 twitter_username: vinaysraghavan
 github_username:  vinaysraghavan
 
-logo: "/assets/img/selfie.jpg"
+logo: "/selfie.png"
 show_downloads: false
 
 # Build settings
